@@ -1,0 +1,176 @@
+/* Estilos generales */
+body {
+    font-family: Lato, Lucida Sans Unicode, Lucida Grande, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+/* Encabezado */
+header {
+    background-color: #ffffff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Navegación */
+nav {
+    background-color: #1a52a5;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    color: #fff;
+    display: block;
+    margin: 0 10px;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+
+.text-1 {
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+    top: -10px;
+    font-family: Lato, Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
+
+.border {
+    position: relative;
+    top: -90.5px;
+    background-color: rgb(73, 136, 194);
+    padding: 2px;
+    right: 400px;
+    width: 1666px;
+
+}
+
+.text {
+    position: relative;
+    top: 36px;
+    margin-right: 420px;
+    color: #202122;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: arial;
+}
+
+.logo-campus {
+    position: relative;
+    margin-right: 980px;
+    width: 200px;
+}
+
+.letra1 {
+    position: relative;
+    right: 30px;
+
+}
+
+.letra2 {
+    position: relative;
+    right: 50px;
+}
+
+
+.letra3 {
+    position: relative;
+    right: 70px;
+}
+
+.letra4 {
+    position: relative;
+    right: 90px;
+}
+
+.letra5 {
+    position: relative;
+    right: 110px;
+}
+
+.letra6 {
+    position: relative;
+    right: 130px;
+}
+
+.letra7 {
+    position: relative;
+    right: 150px;
+}
+
+.letra8 {
+    position: relative;
+    right: 170px;
+}
+
+#card {
+    position: relative;
+    right: 300px;
+    top: 40px;
+    font-size: 30px;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    border: 2px solid #dadcdf;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 210px;
+    position: relative;
+    left: 200px;
+}
+
+.search-container:hover {
+    border: 2px solid #2e7adf;
+    width: 210px;
+}
+
+#lupa:hover {
+    background-color: gray;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+.search-input {
+    border: #0056b3;
+    padding: 8px;
+}
+
+
+.search-button {
+    background-color: #007bff;
+    color: rgb(138, 131, 131);
+    border: none;
+    padding: 8px 15px;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+.text-2{
+    position: relative;
+    left: 450px;
+    top: -50px;
+    color: #0056b3;
+}
